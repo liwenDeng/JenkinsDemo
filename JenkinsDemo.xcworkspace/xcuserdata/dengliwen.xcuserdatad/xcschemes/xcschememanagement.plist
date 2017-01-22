@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
-	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>BC9F003E1E3461B0004C2862</key>
+		<key>JenkinsDemo.xcscheme</key>
 		<dict>
-			<key>primary</key>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Masonry.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
 			<true/>
 		</dict>
-		<key>BC9F00571E3461B0004C2862</key>
+		<key>Pods-JenkinsDemo.xcscheme</key>
 		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>BC9F00621E3461B0004C2862</key>
-		<dict>
-			<key>primary</key>
-			<true/>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 </dict>

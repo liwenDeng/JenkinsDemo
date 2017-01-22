@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B812C02B5F4A1CB85B75334F193ECE0B"
-               BuildableName = "libPods-JenkinsDemo.a"
-               BlueprintName = "Pods-JenkinsDemo"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "53480ED0BE09FF49E34B1702D485CAAB"
+               BuildableName = "libMasonry.a"
+               BlueprintName = "Masonry"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B812C02B5F4A1CB85B75334F193ECE0B"
-            BuildableName = "libPods-JenkinsDemo.a"
-            BlueprintName = "Pods-JenkinsDemo"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "53480ED0BE09FF49E34B1702D485CAAB"
+            BuildableName = "libMasonry.a"
+            BlueprintName = "Masonry"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
