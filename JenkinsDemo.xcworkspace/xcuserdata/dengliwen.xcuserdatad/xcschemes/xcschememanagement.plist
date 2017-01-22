@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>JenkinsDemo.xcscheme</key>
+		<key>JenkinsDemo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
@@ -16,10 +16,10 @@
 			<key>isShown</key>
 			<true/>
 		</dict>
-		<key>Pods-JenkinsDemo.xcscheme</key>
+		<key>Pods-JenkinsDemo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 </dict>
