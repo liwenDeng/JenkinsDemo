@@ -234,8 +234,8 @@
 				TargetAttributes = {
 					BC9F003E1E3461B0004C2862 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 5PE9ABT84P;
-						ProvisioningStyle = Automatic;
+						DevelopmentTeam = ZY556D5J3V;
+						ProvisioningStyle = Manual;
 					};
 					BC9F00571E3461B0004C2862 = {
 						CreatedOnToolsVersion = 8.1;
@@ -501,11 +501,14 @@
 			baseConfigurationReference = A9DBEA24452B19D718158C76 /* Pods-JenkinsDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5PE9ABT84P;
+				CODE_SIGN_IDENTITY = "iPhone Developer: shi jiazheng (RTWHQ87EAV)";
+				DEVELOPMENT_TEAM = ZY556D5J3V;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MS.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.tianya.tianyaQing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "fdd98c6e-5a54-4526-ac87-05f8adbd2e77";
+				PROVISIONING_PROFILE_SPECIFIER = tianyaQingDev;
 			};
 			name = Debug;
 		};
@@ -514,11 +517,14 @@
 			baseConfigurationReference = 0FBA96E4198F1A227FB0D75D /* Pods-JenkinsDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5PE9ABT84P;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Tianya Online Network Technology Co Ltd (ZY556D5J3V)";
+				DEVELOPMENT_TEAM = ZY556D5J3V;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MS.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.tianya.tianyaQing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "7b31f09a-55eb-40b7-ac77-b4b737001c00";
+				PROVISIONING_PROFILE_SPECIFIER = tianyaQingAdHoc;
 			};
 			name = Release;
 		};
